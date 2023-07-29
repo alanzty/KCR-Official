@@ -1,0 +1,8 @@
+cp setupfiles/setup_det.py setup.py
+pip install .
+
+cp setupfiles/setup_rotate.py setup.py
+pip install .
+
+cp setupfiles/setup_kcr.py setup.py
+pip install .
